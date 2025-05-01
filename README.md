@@ -1,4 +1,4 @@
-# Predicting Outcomes in Mayoral Elections
+# Predicting Outcomes in Mayoral Elections with Incumbents
 ### Zoe Baker (zbaker), Shawn Lu (shaogul), Simon Corpuz (scorpuz)
 
 ## Folders
@@ -11,3 +11,6 @@ You will also need to have Jupyter Notebook installed from [here](https://jupyte
 
 After downloading the files in whichever folder you wish to run, nativate to that volder in your terminal and use `jupyter notebook` to launch the application.
 Then simply choose the file you wish to run.
+
+## Written Report
+The written report can be viewed [here](https://docs.google.com/document/d/1gFFpUbCQzHXDDPTI_PS9dcp5NJQzs-BcyINSkuk29yU/edit?usp=sharing).
